@@ -117,12 +117,3 @@ inidividual structs.
 18. 'freeFolderNode'
 This function frees a folder recursivelly, making sure all the memory is
 deallocated and no files or folders are left unfreed inside.
-
-###Commentaries
-I really enjoyed the fact that this homework puts notions and theory into
-practical use. Also, the team work idea was extremely helpful and inspired, as
-it allows us to learn how to collaborate and also make the homework more
-manageable, considering the huge amoung of work we have.
-Some unpleasant thinks about this homewowrk were the memory leaks we found in
-the main function, and the fact that the program did not have implemented an
-exit.
